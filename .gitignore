@@ -1,0 +1,6 @@
+node_modules/
+dist/
+result
+plugins/claude-code/hooks/register.js
+plugins/claude-code/tsconfig.json
+plugins/claude-code/.claude-plugin/types/

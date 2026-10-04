@@ -1,0 +1,8 @@
+{
+  "name": "you-should-know",
+  "version": "0.1.0",
+  "description": "A side agent that flags what you might miss while the model works",
+  "author": {
+    "name": "Amaan Qureshi"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "you-should-know",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "@oh-my-pi/pi-coding-agent": "18.5.0",
+    "@opencode-ai/plugin": "1.18.34",
+    "@types/bun": "^1.4.2",
+    "typescript": "^7.0.2"
+  }
+}
